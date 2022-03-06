@@ -1,5 +1,5 @@
 # Sample-jsonPowerDB
-### Front-end Page for interacting with JSONPower Database Locally with the help of Javascript.
+### Front-end Page for interacting with JSONPower Database with the help of Javascript.
 
 # Benefits
 ### Minimum Development Cost
